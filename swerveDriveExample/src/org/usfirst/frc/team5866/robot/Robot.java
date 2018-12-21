@@ -19,6 +19,8 @@ import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 
 public class Robot extends TimedRobot {
 
+	//Making some changes to code for Git Example
+	
 	public static OI m_oi;
 	public static UsbCamera main;
 	public static SendableChooser<Command> chooser;
